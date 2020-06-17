@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "qoutes"
+    }
+  },
+  "defaultProject": "qoutes",
+  "cli": {
+    "analytics": "66fb5e78-6895-41ef-8b77-b034224cc59f"
+  }
 }
